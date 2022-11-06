@@ -2,7 +2,8 @@
                                      <𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  𝐚𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 />
 - 📫 How to reach me: achintyamishra01@gmail.com
 - Connect with me:
-  <img class="larger" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin Icon logo vector">
+ <a href="https://www.linkedin.com/in/achintya-mishra-6b3669219/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiroop-singh-49043320a" height="30" width="40" style="max-width: 100%;"></a>
+ <a href="https://instagram.com/achintya_msh" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhiroop__19" height="30" width="40" style="max-width: 100%;"></a>
   
 -
 <!--
