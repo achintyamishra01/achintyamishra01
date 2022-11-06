@@ -1,6 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Achintya Mishra
                                      <𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  𝐚𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 />
 - 📫 How to reach me: achintyamishra01@gmail.com
+- https://camo.githubusercontent.com/31798c807fffcbe272df2da495508069ac18d41724e09f4bb4e31d75bf03ec1c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61626869726f6f702d73696e6768266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
 <!--
 **achintyamishra01/achintyamishra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
