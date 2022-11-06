@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Achintya Mishra
-                                     <b>Learning  and Developing Full Stack Applications</b> 
+                                     <𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  𝐚𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 />
 - 📫 How to reach me: achintyamishra01@gmail.com
 <!--
 **achintyamishra01/achintyamishra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
