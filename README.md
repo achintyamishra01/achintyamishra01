@@ -6,7 +6,7 @@
 - <a href="https://www.linkedin.com/in/achintya-mishra-6b3669219/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiroop-singh-49043320a" height="30" width="40" style="max-width: 100%;"></a>
  <a href="https://instagram.com/achintya_msh" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhiroop__19" height="30" width="40" style="max-width: 100%;"></a>
   
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
 <!--
 **achintyamishra01/achintyamishra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
